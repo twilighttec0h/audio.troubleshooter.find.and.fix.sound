@@ -1,6 +1,6 @@
 # audio troubleshooter find and fix sound
 
-[![audio troubleshooter find and fix sound)](https://github.com/twilighttec0h/audio.troubleshooter.find.and.fix.sound)
+[![audio troubleshooter find and fix sound](get-detail.png)](https://github.com/twilighttec0h/audio.troubleshooter.find.and.fix.sound)
 
 Go to Search in the taskbar, type **[audio troubleshooter find and fix sound](https://github.com/twilighttec0h/audio.troubleshooter.find.and.fix.sound)**, and select Find and fix problems with playing sound from the results to launch the troubleshooter. Select Next, and then select the device you want to troubleshoot and then continue through the troubleshooter.
 
